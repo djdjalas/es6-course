@@ -1,5 +1,5 @@
 # es6-course-updated
-This course was completly recorded from scratched to make all students happy.
+This course was completely recorded from scratched to make all students happy.
 ## Installation
 
 1. Install node & yarn
