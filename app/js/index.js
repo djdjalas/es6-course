@@ -3,6 +3,6 @@ require('styles/main.scss');
 /* js */
 import $ from 'jquery';
 import { log, logTitle } from 'logger';
-/* title */
+/* your imports */
 logTitle('Title');
-/* ES6 Features */
+/* coding examples */
