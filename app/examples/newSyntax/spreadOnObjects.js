@@ -1,3 +1,10 @@
+/* styling */
+require('styles/main.scss');
+/* js */
+import { log, logTitle } from 'logger';
+/* your imports */
+logTitle('Spread on Objects');
+
 const address = {
   city: 'LA',
   country: 'USA',

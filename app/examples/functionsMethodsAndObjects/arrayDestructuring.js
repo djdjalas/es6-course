@@ -1,3 +1,10 @@
+/* styling */
+require('styles/main.scss');
+/* js */
+import { log, logTitle } from 'logger';
+/* your imports */
+logTitle('Array Destructuring');
+
 const names = ['Anna', 'Mariam', 'Joe', 'Mark', 'Matt'];
 
 // const anna = names[0];

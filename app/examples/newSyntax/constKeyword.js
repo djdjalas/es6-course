@@ -1,3 +1,10 @@
+/* styling */
+require('styles/main.scss');
+/* js */
+import { log, logTitle } from 'logger';
+/* your imports */
+logTitle('Const keyword');
+
 let name = 'Maria';
 name = {};
 name = 2;
