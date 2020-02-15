@@ -1,8 +1,10 @@
 /* styling */
-require('styles/main.scss');
+require("styles/main.scss");
 /* js */
-import $ from 'jquery';
-import { log, logTitle } from 'logger';
+import $ from "jquery";
+import { log, logTitle } from "logger";
 /* your imports */
-logTitle('Title');
+logTitle("Title");
 /* coding examples */
+
+log("bom");
